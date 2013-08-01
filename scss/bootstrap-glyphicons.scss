@@ -19,7 +19,7 @@
 // Use them in links, buttons, headings, and more.
 
 
-$GlyphiconsPath: "../fonts";
+$GlyphiconsPath: "../fonts" !default;
 
 // Import the fonts
 @font-face {
