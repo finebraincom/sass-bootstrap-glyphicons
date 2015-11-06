@@ -4,7 +4,6 @@
   "main": "scss/bootstrap-glyphicons.scss",
   "ignore": [
   	".gitignore",
-  	"scss/",
   	"_config.yml",
   	"Gruntfile.js",
   	"package.json"
