@@ -1,5 +1,12 @@
 {
   "name": "sass-bootstrap-glyphicons",
-  "version": "1.0.0",
-  "main": "scss/bootstrap-glyphicons.scss"
+  "version": "2.0.0",
+  "main": "scss/bootstrap-glyphicons.scss",
+  "ignore": [
+  	".gitignore",
+  	"scss/",
+  	"_config.yml",
+  	"Gruntfile.js",
+  	"package.json"
+  ]
 }
